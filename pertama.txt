@@ -1,0 +1,5 @@
+FIRST PROJECT
+- Menguasai HTML, CSS & Javascript Dasar
+- Meniru Karya Orang dengan coding sendiri
+- Membuat Karya sendiri
+- Pamer
